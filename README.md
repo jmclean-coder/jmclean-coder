@@ -42,6 +42,35 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<br />
+<br />
+
+[![jmclean-coder's github stats](https://github-readme-stats.vercel.app/api?username=jmclean-coder)](https://github.com/jmclean-coder)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact)](https://github.com/jmclean-coder)
+
+
+---
+
+### My Keystone Project Repos:
+
+<br />
+
+<a href="https://github.com/jmclean-coder/carecast_frontend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_frontend" />
+</a>
+<a href="https://github.com/jmclean-coder/carecast_backend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_backend" />
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 ---
 
 ### 📕 My Latest Blog Posts
