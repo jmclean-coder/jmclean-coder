@@ -30,15 +30,30 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-
-
-
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+---
+
+### Github Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!-- --- -->
+
+<!-- ### 📺 Latest YouTube Videos -->
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 
 
