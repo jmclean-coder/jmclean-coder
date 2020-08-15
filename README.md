@@ -34,12 +34,10 @@
 <br />
 
 ---
+<br />
 
 ### Github Stats
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <br />
@@ -72,6 +70,8 @@ No Activity tracked this Week
 
 
 ---
+<br />
+
 
 ### 📕 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
