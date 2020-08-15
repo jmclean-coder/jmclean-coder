@@ -46,6 +46,9 @@
 
 ### Stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![jmclean-coder's github stats](https://github-readme-stats.vercel.app/api?username=jmclean-coder)](https://github.com/jmclean-coder)
