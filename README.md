@@ -48,8 +48,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br />
-
 [![jmclean-coder's github stats](https://github-readme-stats.vercel.app/api?username=jmclean-coder)](https://github.com/jmclean-coder)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact)](https://github.com/jmclean-coder)
