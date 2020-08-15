@@ -68,12 +68,6 @@ No Activity tracked this Week
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_backend" />
 </a>
 
-<br />
-<br />
-<br />
-
----
-
 <!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
