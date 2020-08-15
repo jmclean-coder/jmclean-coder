@@ -34,13 +34,11 @@
 <br />
 
 ---
-<br />
 
 ### Github Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br />
 <br />
 
 [![jmclean-coder's github stats](https://github-readme-stats.vercel.app/api?username=jmclean-coder)](https://github.com/jmclean-coder)
