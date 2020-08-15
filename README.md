@@ -16,6 +16,26 @@
 - [Demystifying unfamiliar code: ndarrays and get-pixels.](https://medium.com/weekly-webtips/demystifying-unfamiliar-code-ndarrays-and-get-pixels-34e0db4ac7ce?source=rss-55c390e13e10------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### My Keystone Project Repos:
+
+<a href="https://github.com/jmclean-coder/carecast_frontend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_frontend" />
+</a>
+<a href="https://github.com/jmclean-coder/carecast_backend">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_backend" />
+</a>
+
+
+
+<br />
+<br />
+<br />
+<br />
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -54,19 +74,6 @@ No Activity tracked this Week
 [![jmclean-coder's github stats](https://github-readme-stats.vercel.app/api?username=jmclean-coder)](https://github.com/jmclean-coder)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact)](https://github.com/jmclean-coder)
-
----
-
-### My Keystone Project Repos:
-
-<br />
-
-<a href="https://github.com/jmclean-coder/carecast_frontend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_frontend" />
-</a>
-<a href="https://github.com/jmclean-coder/carecast_backend">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_backend" />
-</a>
 
 <!-- --- -->
 
