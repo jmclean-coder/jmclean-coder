@@ -11,8 +11,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@0.1.3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           USERNAME: jmclean-coder
-          SHOW_TITLE: true
+          
+
+
+          
