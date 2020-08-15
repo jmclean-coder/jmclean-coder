@@ -26,9 +26,7 @@
 <a href="https://github.com/jmclean-coder/carecast_backend">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jmclean-coder&repo=carecast_backend" />
 </a>
-
-
-
+<br />
 <br />
 <br />
 <br />
