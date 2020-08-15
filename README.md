@@ -64,7 +64,11 @@
 ### Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     52 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Ruby         49 mins         ██████░░░░░░░░░░░░░░░░░░░   26.24 % 
+YAML         49 mins         ██████░░░░░░░░░░░░░░░░░░░   26.20 % 
+JavaScript   22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 <!--END_SECTION:waka-->
 
