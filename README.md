@@ -11,16 +11,23 @@
 
 ---
 
-### I'm a Developer, Food Lover, Puppy Parent, Lindy Hop Dancer, and Co-Director of Hellablacklindyhop!
+### 🖤 I'm a Developer, Food Lover, Puppy Parent, Lindy Hop Dancer, and Co-Director of Hellablacklindyhop 💃🏾🕺🏾
 
-- 🌱 I’m currently learning everything 🤣
-- Flatiron School Alumni
-- 🥅 2020 Goals: Sharpen my skills.
-- ⚡ Fun fact: Everyone in my immediate family has the initials J.A.M 
+* 👨🏾‍🎓Flatiron School Alum
+* 🥅 2020 Goals:
+  * Begin an internship
+  * Work diligently to get hired as a Full Stack Developer.
+  * Learn Cloud Technologies, beginning with AWS, and apply what I learn to atleast 1 project.
+  * Learn React Native, and apply what I learn to atleast 1 project.
+  * Iterate upon and improve my knowledge of Javascript, React, Ruby, and Ruby on Rails (especially Middleware)
+  * Learn C# by learning game development, and develop a simple game in Unity. 
+  * Complete the 100daysofcode challenge.
+  
+* ⚡ Fun fact: Each person in my immediate family has the initials J.A.M, it's no surprise that we all love to dance.
 
 ---
 
-### 📕 My Latest Blog Posts
+### 📖 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Calendar Heatmap with SVG and React.js](https://medium.com/javascript-in-plain-english/building-a-calendar-heatmap-with-svg-and-react-js-6751b19a2d95?source=rss-55c390e13e10------2)
 - [Working with SVGs](https://medium.com/the-innovation/working-with-svgs-758e8cb4e3f8?source=rss-55c390e13e10------2)
