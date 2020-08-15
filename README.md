@@ -62,6 +62,8 @@
 ---
 
 ### Stats
+
+#### This week:
 <!--START_SECTION:waka-->
 ```text
 Markdown     52 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
@@ -72,9 +74,11 @@ Other        7 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![jmclean-coder's github stats](https://github-readme-stats.vercel.app/api?username=jmclean-coder)](https://github.com/jmclean-coder)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact)](https://github.com/jmclean-coder)
+<a href="https://github.com/jmclean-coder">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmclean-coder" />
+</a>
+<a href="https://github.com/jmclean-coder">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact" />
 
 <!-- --- -->
 
