@@ -73,8 +73,8 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-Ruby         13 mins         █████████████████████░░░░   85.85 % 
-JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Ruby         13 mins         █████████████████████░░░░   85.83 % 
+JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 <!--END_SECTION:waka-->
