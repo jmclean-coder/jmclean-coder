@@ -73,10 +73,10 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-SCSS         3 hrs 16 mins   ███████████░░░░░░░░░░░░░░   47.20 % 
-JavaScript   2 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.76 % 
-Ruby         1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+SCSS         3 hrs 58 mins   █████████████░░░░░░░░░░░░   51.72 % 
+JavaScript   2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Ruby         1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 <!--END_SECTION:waka-->
