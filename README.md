@@ -66,6 +66,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+#### Overall:
+
 <a href="https://github.com/jmclean-coder">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact" />
 <a href="https://github.com/jmclean-coder">
