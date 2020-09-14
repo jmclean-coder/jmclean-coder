@@ -16,8 +16,6 @@
 
 ---
 
-<br />
-
 ### Connect with me:
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
@@ -28,8 +26,6 @@
 <br />
 
 ---
-
-<br />
 
 ### My Keystone Project Repos:
 
@@ -48,8 +44,6 @@
 
 ---
 
-<br />
-
 ### 📖 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Calendar Heatmap with SVG and React.js](https://medium.com/javascript-in-plain-english/building-a-calendar-heatmap-with-svg-and-react-js-6751b19a2d95?source=rss-55c390e13e10------2)
@@ -58,8 +52,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<br />
 
 ### Stats
 
