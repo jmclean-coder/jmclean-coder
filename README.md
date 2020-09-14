@@ -1,6 +1,5 @@
 ## Hi there, I'm Joshua 👋
 ### I'm a Full Stack Web Developer & 👨🏾‍🎓Flatiron School Alum 🖤
-<br />
 
 ### Languages and Tools:
 
