@@ -19,7 +19,7 @@
 ### Connect with me:
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
-[<img align="left" alt="Joshua Mclean| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Joshua Mclean| Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Joshua Mclean| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joshuamclean.dance" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Joshua Mclean| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -101,4 +101,4 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 [twitch]: https://twitch.tv/dancingsyntax
 [instagram]: https://instagram.com/jazzjune.we
 [linkedin]: https://www.linkedin.com/in/jmclean-dancingsyntax
-[gmail]: joshmcleana@gmail.com
+[gmail]: mailto:joshmcleana@gmail.com
