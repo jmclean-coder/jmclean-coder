@@ -101,4 +101,4 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 [twitch]: https://twitch.tv/dancingsyntax
 [instagram]: https://instagram.com/jazzjune.we
 [linkedin]: https://www.linkedin.com/in/jmclean-dancingsyntax
-[gmail]: mailto:joshmcleana@gmail.com
+[gmail]: https://joshmcleana@gmail.com
