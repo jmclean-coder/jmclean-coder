@@ -58,11 +58,9 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-SCSS         3 hrs 58 mins   █████████████░░░░░░░░░░░░   51.72 % 
-JavaScript   2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   33.75 % 
-Ruby         1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+SCSS         5 hrs 27 mins   ████████████████░░░░░░░░░   63.60 % 
+JavaScript   1 hr 54 mins    █████░░░░░░░░░░░░░░░░░░░░   22.27 % 
+Markdown     1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.13 %
 ```
 <!--END_SECTION:waka-->
 
