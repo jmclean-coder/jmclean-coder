@@ -59,10 +59,10 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-SCSS         4 hrs 58 mins   ███████████████░░░░░░░░░░   61.29 % 
-JavaScript   1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Markdown     1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+SCSS         2 hrs 39 mins   █████████████░░░░░░░░░░░░   52.08 % 
+JavaScript   1 hr 13 mins    ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Markdown     1 hr 12 mins    ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 <!--END_SECTION:waka-->
 
