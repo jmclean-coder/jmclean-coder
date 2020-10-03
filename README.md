@@ -59,9 +59,7 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   50 mins         ██████████████░░░░░░░░░░░   58.58 % 
-SCSS         34 mins         ██████████░░░░░░░░░░░░░░░   40.78 % 
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
