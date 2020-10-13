@@ -59,10 +59,9 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 14 mins   ███████████████████████░░   93.58 % 
-Markdown     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript   40 mins         ████████████████░░░░░░░░░   66.34 % 
+Markdown     18 mins         ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 <!--END_SECTION:waka-->
 
