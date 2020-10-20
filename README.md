@@ -48,7 +48,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [“Hello World, I’m Joshua!”](https://medium.com/dancing-syntax/hello-world-im-joshua-2cbe32b97003?source=rss-55c390e13e10------2)
 - [Building a Calendar Heatmap with SVG and React.js](https://medium.com/javascript-in-plain-english/building-a-calendar-heatmap-with-svg-and-react-js-6751b19a2d95?source=rss-55c390e13e10------2)
-- [Working with SVGs](https://medium.com/the-innovation/working-with-svgs-758e8cb4e3f8?source=rss-55c390e13e10------2)
+- [Working with SVGs](https://medium.com/dancing-syntax/working-with-svgs-758e8cb4e3f8?source=rss-55c390e13e10------2)
 - [Demystifying unfamiliar code: ndarrays and get-pixels.](https://medium.com/weekly-webtips/demystifying-unfamiliar-code-ndarrays-and-get-pixels-34e0db4ac7ce?source=rss-55c390e13e10------2)
 <!-- BLOG-POST-LIST:END -->
 
