@@ -46,11 +46,11 @@
 
 ### 📖 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Four-Step Guide for Solving Algorithms](https://medium.com/dancing-syntax/four-step-guide-for-solving-algorithms-4ee02cb6b896?source=rss-55c390e13e10------2)
 - [Getting Started With Algorithms](https://medium.com/dancing-syntax/getting-started-with-algorithms-64ee7e6ecee0?source=rss-55c390e13e10------2)
 - [Welcome to Dancing Syntax: Learn About Us!](https://medium.com/dancing-syntax/welcome-to-dancing-syntax-learn-about-us-5b5430213c21?source=rss-55c390e13e10------2)
 - [“Hello World, I’m Joshua!”](https://medium.com/dancing-syntax/hello-world-im-joshua-2cbe32b97003?source=rss-55c390e13e10------2)
 - [Building a Calendar Heatmap with SVG and React.js](https://medium.com/javascript-in-plain-english/building-a-calendar-heatmap-with-svg-and-react-js-6751b19a2d95?source=rss-55c390e13e10------2)
-- [Working with SVGs](https://medium.com/dancing-syntax/working-with-svgs-758e8cb4e3f8?source=rss-55c390e13e10------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
