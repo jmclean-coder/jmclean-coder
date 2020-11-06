@@ -46,7 +46,7 @@
 
 ### 📖 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Equal Opportunity Web](https://medium.com/@joshmcleana/the-equal-opportunity-web-839b66e0499d?source=rss-55c390e13e10------2)
+- [The Equal Opportunity Web](https://medium.com/swlh/the-equal-opportunity-web-839b66e0499d?source=rss-55c390e13e10------2)
 - [Four-Step Guide for Solving Algorithms](https://medium.com/dancing-syntax/four-step-guide-for-solving-algorithms-4ee02cb6b896?source=rss-55c390e13e10------2)
 - [Getting Started With Algorithms](https://medium.com/dancing-syntax/getting-started-with-algorithms-64ee7e6ecee0?source=rss-55c390e13e10------2)
 - [Welcome to Dancing Syntax: Learn About Us!](https://medium.com/dancing-syntax/welcome-to-dancing-syntax-learn-about-us-5b5430213c21?source=rss-55c390e13e10------2)
