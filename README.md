@@ -60,8 +60,7 @@
 #### This week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   0 secs          █████████████████████░░░░   86.66 % 
-Markdown     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   13.34 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
