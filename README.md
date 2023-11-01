@@ -53,45 +53,6 @@
 - [“Hello World, I’m Joshua!”](https://medium.com/dancing-syntax/hello-world-im-joshua-2cbe32b97003?source=rss-55c390e13e10------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-### Stats
-
-#### This week:
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-#### Overall:
-
-<a href="https://github.com/jmclean-coder">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmclean-coder&layout=compact" />
-<a href="https://github.com/jmclean-coder">
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmclean-coder" />
-</a>
-
-
-
-<!-- --- -->
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
-
 
 
 
